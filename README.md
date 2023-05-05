@@ -12,6 +12,7 @@ nobuild courtesy of tsoding at:
 The c++ directory has three sub directories.
 `mandelbrot/` has my first c port from:
  - [The Coding Train](https://www.youtube.com/watch?v=6z7GQewK-Ks)
+ 
 `mandelbrot-gamma/` using openmp for multithreading; a very optimized version of that same code
 `mandelbrot-lambda/` is in the works but it's supposed to be the same as mandelbrot-gamma but using lambdas
 
