@@ -1,0 +1,2 @@
+# mandelbrot
+Mandelbrot research repo
