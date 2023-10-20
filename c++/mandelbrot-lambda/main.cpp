@@ -25,7 +25,7 @@ int main() {
   }
 
   int index = 0;
-  //#pragma omp parallel for
+#pragma omp parallel for
   for (std::complex<double> coordinate : arrayCoordinates) {
     double x = 0.0;
     double y = 0.0;
