@@ -1,3 +1,5 @@
+Moved to [SourceHut](https://git.sr.ht/~diego-est/fractal-draw)
+
 # mandelbrot
 Mandelbrot fractal research repo
 
